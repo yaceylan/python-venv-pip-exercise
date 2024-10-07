@@ -27,4 +27,3 @@
 2. Anweisungen:
 - Füge die Datei zahlen.csv und alle PNG-Dateien, die durch das Skript erstellt werden, zur .gitignore Datei hinzu.
 - Überprüfe, ob die Dateien nicht mehr im Repository enthalten sind.
-## Schritt 8: Projekt auf GitHub veröffentlichen
