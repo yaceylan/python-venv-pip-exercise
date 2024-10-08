@@ -1,6 +1,6 @@
 # Hausaufgabe: Erweiterte Datenvisualisierung und Speicherung
 ## Aufgabe 1: Hinzufügen einer weitere Datenreihe
-1. Ziel: Erweitere das bestehende Python-Skript, sodass  die Kubikzahlen (z.B. 1³, 2³, 3³, …) für die Zahlen 0 bis 9 anzeigt.
+1. Ziel: Erweitere das bestehende Python-Skript (vom Beispiel: https://github.com/ts-24-08/python-venv-pip), sodass  die Kubikzahlen (z.B. 1³, 2³, 3³, …) für die Zahlen 0 bis 9 anzeigt.
 2. Anweisungen:
 - Füge eine  Liste hinzu, die die Kubikzahlen von 0 bis 9 berechnet.
 - Zeichne die beiden Datensätze (Quadratzahlen und Kubikzahlen) in dasselbe Diagramm.
